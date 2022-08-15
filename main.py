@@ -1,4 +1,5 @@
 #HELENA KUCHINSKI FERREIRA
+#CONSTRUIR UM CÓDIGO CAPAZ DE SOMAR, ITEM A ITEM, TODOS OS INTEIROS ENTRE 1 E 1.000.000
 import random
 import numpy as np
 import logging 
