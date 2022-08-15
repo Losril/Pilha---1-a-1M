@@ -50,7 +50,7 @@ class Pilha:
     return np.flip(self.topoPilha.valores)
 
 #MAIN
-#ALOCANDO DADOS  
+#ALOCANDO E SOMANDO DADOS  
 pilhaHOT = Pilha()
 
 tPInicio1 = time.process_time() 
